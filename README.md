@@ -6,6 +6,8 @@ It repeatedly fetches the current weather from the [Dark Sky API](https://darksk
 
 https://robert.katzki.de/projects/wetterbot
 
+[![Pam at work](media/wetterbot.gif)](https://vimeo.com/201564802)
+
 ## Setup
 
 The wetterbot contains a *[C.H.I.P.](https://getchip.com/pages/chip)* inside. Connect the button, the LED(s) and the speaker as shown here:
