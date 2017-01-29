@@ -1,8 +1,10 @@
 # Wetterbot
 
-The wetterbot is a friendly robot that tells us the weather.
+The wetterbot is a friendly robot that tells us the weather. The name is Pam. Weather Pam.
 
 It repeatedly fetches the current weather from the [Dark Sky API](https://darksky.net/dev/). When the button on the top is pressed, it reads the current weather and the forecast for the next day while blinking with it’s eyes.
+
+https://robert.katzki.de/projects/wetterbot
 
 ## Setup
 
